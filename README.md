@@ -705,3 +705,4 @@ functions.
 [Associations]: https://sequelize.org/master/manual/hooks.html#associations
 [recipe box data model]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Module-SQL/assets/sql-recipe-box-data-model.png
 # ORM-sequelize-project
+# ORM-sequelize-project
